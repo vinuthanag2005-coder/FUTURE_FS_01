@@ -21,7 +21,7 @@ It showcases my skills, projects, and learning journey in web development.
 - Geospatial Clustering
 
 ## 🌐 Live Demo
-https://vinuthanag2005.github.io/portfolio/
+[https://vinuthanag2005.github.io/portfolio/](https://personal-professionalportfolio.netlify.app/)
 
 ## 📫 Contact
 - Email: vinuthanag2005@gmail.com
